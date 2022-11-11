@@ -158,6 +158,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 Yusuf Ridwan - [Github](https://github.com/horiyorrmi72) / [Twitter](https://twitter.com/horla_techs)
+Emeka Okafor - [Github](https://github.com/kenfelix)
 
 Second part of Airbnb: Joann Vuong
 ## License
